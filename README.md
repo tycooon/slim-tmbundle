@@ -1,10 +1,10 @@
-# A Sublime Text / TextMate Bundle for Slim
+## A Sublime Text / TextMate Bundle for Slim
 
-## Description
+### Description
 
 This is a [Sublime Text](http://www.sublimetext.com/) / [TextMate](http://macromates.com/) bundle for [Slim](http://slim-lang.com/) template language. The puprose of this bundle is to improve the [original bundle](https://github.com/slim-template/ruby-slim.tmbundle) by Fred Wu. Since Slim doesn't really need any snippets, this package includes only syntax highlighting and comment hotkey support.
 
-## Features
+### Features
 
 - Support for unwrapped tag attributes and their values.
 - Support for wrapped with `[]{}()` tag attributes (including multiline) and their values.
@@ -13,7 +13,7 @@ This is a [Sublime Text](http://www.sublimetext.com/) / [TextMate](http://macrom
 - Support for multiline blocks escaped with `|` and `'`.
 - Illegal syntax is highlighted (makes it super easy to migrate from haml).
 
-## Screenshots
+### Screenshots
 
 ##### Original bundle
 ![Original](https://dl.dropboxusercontent.com/spa/q16ef54fcja6qje/6akya9ff.png)
@@ -21,7 +21,7 @@ This is a [Sublime Text](http://www.sublimetext.com/) / [TextMate](http://macrom
 ##### This bundle
 ![This](https://dl.dropboxusercontent.com/spa/q16ef54fcja6qje/3t1k2rxi.png)
 
-## Installation
+### Installation
 
 #### TextMate 1
 
