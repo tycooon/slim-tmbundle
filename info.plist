@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>contactEmail</key>
+  <string>tycoooon@gmail.com</string>
+  <key>contactName</key>
+  <string>Smirnov Yuri</string>
+  <key>description</key>
+  <string>Slim TextMate bundle. Fork me on GitHub.</string>
+	<key>name</key>
+	<string>Slim</string>
+	<key>ordering</key>
+	<array>
+		<string>62483E3A-0A63-425D-87D3-669BF5F0BC47</string>
+		<string>71DE10E5-E691-4A97-B8E8-AC0D5E60FCAB</string>
+	</array>
+	<key>uuid</key>
+	<string>209A3F66-2686-47A2-AD88-ABCD237B2E53</string>
+</dict>
+</plist>

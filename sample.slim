@@ -1,0 +1,21 @@
+
+#content
+	nav
+		a href=url_for(@page) title={@title} Embedded content. No single quote's problem!
+		/ notice how attribute values are rails-highlighted
+		a[href="/"
+			title='multiline']= render template: 'something'
+
+	section.main
+		p Embedded ruby is properly highlighted #{'1'.to_i + 1}
+		- @articles.each do |article|
+			span ==' link_to article.tile, article
+			/ =' is supported
+
+	footer data-value="some value": p title="awesome" Inline tags are not a problem
+	| <b>HTML tags</b> are supported as well.
+
+	%p Most of illegal syntax is highlighted
+
+p There still are some problems like=this or: this
+/ But I'm not really sure that it is possible to avoid them using only TextMate language grammar parser
