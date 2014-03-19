@@ -23,25 +23,9 @@ This is a [Sublime Text](http://www.sublimetext.com/) / [TextMate](http://macrom
 
 ### Installation
 
-#### TextMate 1
+#### Sublime Text 2/3
 
-    cd ~/Library/Application\ Support/TextMate/Bundles/
-    git clone https://github.com/tycooon/slim-tmbundle.git Slim.tmbundle
-    osascript -e 'tell app "TextMate" to reload bundles'
-
-#### TextMate 2
-
-    cd ~/Library/Application\ Support/TextMate/Managed/Bundles/
-    git clone https://github.com/tycooon/slim-tmbundle.git Slim.tmbundle
-
-#### Sublime Text 2
-
-    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
-    git clone https://github.com/tycooon/slim-tmbundle.git Slim.tmbundle
-
-#### Sublime Text 3
-
-    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
+    cd <Your Sublime Text Packages Directory>
     git clone https://github.com/tycooon/slim-tmbundle.git Slim.tmbundle
 
 ### Notes
